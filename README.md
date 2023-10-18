@@ -14,5 +14,5 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ManuUSS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuUSS&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ManuUSS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuUSS&stroke=4287f5&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=4287f5&currStreakLabel=4287f5&sideNums=4287f5&sideLabels=4287f5&dates=4287f5&hide_border=true" /></a>
 
